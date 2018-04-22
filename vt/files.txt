@@ -1,0 +1,167 @@
+[
+  {
+    "Tick": 636598589079129208,
+    "File": "transcript.txt",
+    "Title": "Telafuz"
+  },
+  {
+    "Tick": 636598589081185874,
+    "File": "arabic.txt",
+    "Title": "Arapça"
+  },
+  {
+    "Tick": 636598589083643679,
+    "File": "kirik.txt",
+    "Title": "KırıkMeal"
+  },
+  {
+    "Tick": 636598589090103074,
+    "File": "meal_0.txt",
+    "Title": "Abdülaziz Bayındır Meali"
+  },
+  {
+    "Tick": 636598589093650725,
+    "File": "meal_1.txt",
+    "Title": "Abdülbaki Gölpınarlı Meali"
+  },
+  {
+    "Tick": 636598589096822815,
+    "File": "meal_2.txt",
+    "Title": "Abdullah Parlıyan Meali"
+  },
+  {
+    "Tick": 636598589101009584,
+    "File": "meal_3.txt",
+    "Title": "Ahmet Tekin Meali"
+  },
+  {
+    "Tick": 636598589111006612,
+    "File": "meal_4.txt",
+    "Title": "Ahmet Varol Meali"
+  },
+  {
+    "Tick": 636598589118291764,
+    "File": "meal_5.txt",
+    "Title": "Ali Bulaç Meali"
+  },
+  {
+    "Tick": 636598589121649131,
+    "File": "meal_6.txt",
+    "Title": "Ali Fikri Yavuz Meali"
+  },
+  {
+    "Tick": 636598589125752492,
+    "File": "meal_7.txt",
+    "Title": "Bahaeddin Sağlam Meali"
+  },
+  {
+    "Tick": 636598589129057898,
+    "File": "meal_8.txt",
+    "Title": "Bayraktar Bayraklı Meali"
+  },
+  {
+    "Tick": 636598589132235142,
+    "File": "meal_9.txt",
+    "Title": "Cemal Külünkoğlu Meali"
+  },
+  {
+    "Tick": 636598589136948455,
+    "File": "meal_10.txt",
+    "Title": "Diyanet İşleri Meali (Eski)"
+  },
+  {
+    "Tick": 636598589140235792,
+    "File": "meal_11.txt",
+    "Title": "Diyanet İşleri Meali (Yeni)"
+  },
+  {
+    "Tick": 636598589144088702,
+    "File": "meal_12.txt",
+    "Title": "Diyanet Vakfı Meali"
+  },
+  {
+    "Tick": 636598589148792002,
+    "File": "meal_13.txt",
+    "Title": "Edip Yüksel Meali"
+  },
+  {
+    "Tick": 636598589152409562,
+    "File": "meal_14.txt",
+    "Title": "Elmalılı Hamdi Yazır Meali"
+  },
+  {
+    "Tick": 636598589155722027,
+    "File": "meal_15.txt",
+    "Title": "Elmalılı Meali (Orjinal)"
+  },
+  {
+    "Tick": 636598589158699553,
+    "File": "meal_16.txt",
+    "Title": "Hasan Basri Çantay Meali"
+  },
+  {
+    "Tick": 636598589162422190,
+    "File": "meal_17.txt",
+    "Title": "Hayrat Neşriyat Meali"
+  },
+  {
+    "Tick": 636598589169237017,
+    "File": "meal_18.txt",
+    "Title": "Kadri Çelik Meali"
+  },
+  {
+    "Tick": 636598589172867839,
+    "File": "meal_19.txt",
+    "Title": "Mehmet Türk Meali"
+  },
+  {
+    "Tick": 636598589182234995,
+    "File": "meal_20.txt",
+    "Title": "Muhammed Esed Meali"
+  },
+  {
+    "Tick": 636598589192607329,
+    "File": "meal_21.txt",
+    "Title": "Mustafa İslamoğlu Meali"
+  },
+  {
+    "Tick": 636598589203350120,
+    "File": "meal_22.txt",
+    "Title": "Ömer Nasuhi Bilmen Meali"
+  },
+  {
+    "Tick": 636598589206457330,
+    "File": "meal_23.txt",
+    "Title": "Suat Yıldırım Meali"
+  },
+  {
+    "Tick": 636598589212581831,
+    "File": "meal_24.txt",
+    "Title": "Süleyman Ateş Meali"
+  },
+  {
+    "Tick": 636598589216454572,
+    "File": "meal_25.txt",
+    "Title": "Şaban Piriş Meali"
+  },
+  {
+    "Tick": 636598589219076449,
+    "File": "meal_26.txt",
+    "Title": "Ümit Şimşek Meali"
+  },
+  {
+    "Tick": 636598589221893411,
+    "File": "meal_27.txt",
+    "Title": "Yaşar Nuri Öztürk Meali"
+  },
+  {
+    "Tick": 636598589224135005,
+    "File": "meal_28.txt",
+    "Title": "M. Pickthall (English)"
+  },
+  {
+    "Tick": 636598589225982613,
+    "File": "meal_29.txt",
+    "Title": "Yusuf Ali (English)"
+  }
+]
